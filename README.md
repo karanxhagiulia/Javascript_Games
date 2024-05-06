@@ -20,4 +20,4 @@ This project was developed following a tutorial by Frank's Laboratory available 
 
 ## Live Demo
 
-See the game in action [here](https://cryptotrackerproject2javascript.netlify.app/).
+See the game in action [here](https://javascriptgamefreecodecamp.netlify.app/).
